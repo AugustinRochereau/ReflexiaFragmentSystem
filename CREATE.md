@@ -41,3 +41,18 @@ Initialized empty Git repository in /Users/rochereauaugustin/Documents/Réflexia
 - La branche par défaut est nommée `master`. Ce nom pourra être modifié.
 - La suite impliquera : structure de répertoires, premiers fragments, manifeste, et règles de contribution.
 
+
+## Premier commit Git
+
+```bash
+# Ajout du fichier CREATE.md à l’index
+rochereauaugustin@MacBook-Air-de-Rochereau-2 RéflexiaFragmentSystem % git add CREATE.md 
+
+# Premier commit
+rochereauaugustin@MacBook-Air-de-Rochereau-2 RéflexiaFragmentSystem % git commit -m "Création initiale du dépôt et journal CREATE.md"
+[master (root-commit) ce42b76] Création initiale du dépôt et journal CREATE.md
+ 1 file changed, 43 insertions(+)
+ create mode 100644 CREATE.md
+```
+
+---
