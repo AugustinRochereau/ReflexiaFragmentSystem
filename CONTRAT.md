@@ -30,7 +30,7 @@ Le système n’impose pas de pensée. Il garantit seulement un mode d’interac
 #### Cloner
 
 ```bash
-git clone [URL_DU_DEPOT]
+git clone https://github.com/AugustinRochereau/ReflexiaFragmentSystem.git
 cd RéflexiaFragmentSystem
 ```
 
